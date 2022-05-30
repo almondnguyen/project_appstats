@@ -1,4 +1,4 @@
-# Applied Design & Statistics Mini-Project: 
+# Applied Statistics & Experimental Design Mini-Project: 
 ## Classification - Company Bankrupcy Prediction
 
 ## About Project
