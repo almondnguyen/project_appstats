@@ -9,7 +9,7 @@
 - Dung: Data Prep (ASAP, Fri 3/6).
 - Long: Data Prep ^.
 - Phuc: Coding (ASAP), Evaluation + Report (Fri 10/6).
-- Minh: Demo (Sun 5/6), Report Outline (Tue 7/5).
+- Minh: Demo (Sun 5/6), Report Outline (Tue 7/6).
 - Khoi: Build Model & Scaler (ASAP, Sun 5/6), Code + Report ^.
 
 > Directory Structure:
