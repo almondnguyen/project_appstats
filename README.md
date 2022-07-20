@@ -5,12 +5,7 @@
 
 > Data: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
-> Assignment & Deadlines:
-- Dung: Data Prep (ASAP, Fri 3/6).
-- Long: Data Prep ^.
-- Phuc: Coding (ASAP), Evaluation + Report (Fri 10/6).
-- Minh: Demo (Sun 5/6), Report Outline (Tue 7/6).
-- Khoi: Build Model & Scaler (ASAP, Sun 5/6), Code + Report ^.
+> Base Report: https://docs.google.com/document/d/1G5rIIPi5HhKxDA7mj5Q2Sk-AygH34XL4rLvoXejmsIA/edit#
 
 > Directory Structure:
 - `/Code/`: Put data and src code here (both demo & release).
